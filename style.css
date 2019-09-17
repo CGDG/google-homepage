@@ -1,0 +1,54 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 5px;
+  }
+  li {
+      display: inline;
+  }
+  #left {
+      float: left;
+  }
+  #right {
+      float: right;
+      margin-right: 125px;
+      
+  }
+#logo {
+    padding-top: 75px;
+    display: block;
+    height: 220px;
+    margin: auto;
+    width: 391px;
+    display: block;
+}
+#box {
+    margin: auto;
+    display: block;
+    text-align: center;
+    height: 50px;
+    width: 391px;
+}
+
+#signin {
+   float: right;
+   margin-right: -210px;
+   line-height: 2;
+   font-family: Arial, sans-serif;
+   padding-top: 0px;
+  
+}
+.button1 {
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    color: #FFF;
+    outline: none;
+    background-color: #4387fd;
+
+    
+}
+footer {
+    text-align: center;
+    
+}
+
